@@ -1,2 +1,3 @@
 # OIBSIP
-This repository is for all the task during my Intership.
+This repository is for all the task during my Intership 
+Company Name - OASIS INFOBYTE
